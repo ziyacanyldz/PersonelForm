@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelForm", "PersonelForm\PersonelForm.csproj", "{11E00FB2-49C1-4417-9AE4-A574E75901DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelManagerLibrary", "..\..\StajProjeler\Proje2\WindowsFormsApplication1\PersonelManagerLibrary\PersonelManagerLibrary.csproj", "{455A185B-FF2C-4A25-80D5-E771A34B0D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E00FB2-49C1-4417-9AE4-A574E75901DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E00FB2-49C1-4417-9AE4-A574E75901DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E00FB2-49C1-4417-9AE4-A574E75901DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E00FB2-49C1-4417-9AE4-A574E75901DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455A185B-FF2C-4A25-80D5-E771A34B0D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455A185B-FF2C-4A25-80D5-E771A34B0D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455A185B-FF2C-4A25-80D5-E771A34B0D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455A185B-FF2C-4A25-80D5-E771A34B0D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA62FC2-3D23-470E-9036-6681B49FDA5B}
+	EndGlobalSection
+EndGlobal
